@@ -2,4 +2,5 @@ slack: https://slack.com
 moodle: https://moodle.wit.ie
 youtube: https://www.youtube.com/
 zoom: https://zoom.us/
-credits: Your Name Here, WIT
+credits: Course branding Tester
+parent: #course/tutors-docs.netlify.app
