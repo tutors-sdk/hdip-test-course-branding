@@ -10,4 +10,5 @@ icon:
 
 # Life Etc
 
-9D578A
+
+time · space · balance  · experiences  · tips · techniques

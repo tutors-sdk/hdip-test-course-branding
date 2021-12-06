@@ -10,4 +10,4 @@ icon:
 
 # ICT Skills One
 
-FFD603
+javascript · node · express · git · github · glitch 

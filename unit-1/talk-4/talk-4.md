@@ -10,4 +10,4 @@ icon:
 
 # Programming
 
-F4A13B
+algorithms · data structures · processing · java · classes · libraries
