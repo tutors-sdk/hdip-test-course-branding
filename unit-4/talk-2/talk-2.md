@@ -1,7 +1,7 @@
 ---
 icon: 
   type: bi:window-stack
-  color: FFD603
+  color: 77bfff
 ---
 
 Full Stack Development 2

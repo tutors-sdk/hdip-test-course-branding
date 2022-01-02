@@ -4,7 +4,7 @@ icon:
 
   type: zmdi:view-web
 
-  color: FFD603
+  color: 6b95ff
 
 ---
 
