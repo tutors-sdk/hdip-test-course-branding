@@ -10,4 +10,4 @@ icon:
 
 # Workshop Two
 
-structure · schedules · module overview · project
+student perspectives · project & placement · introducing semester 2

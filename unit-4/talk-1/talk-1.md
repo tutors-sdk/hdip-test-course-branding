@@ -8,6 +8,6 @@ icon:
 
 ---
 
-# Workshop Four
+Workshop Four
 
-009656
+project structure · project showcase · introducing semester 4

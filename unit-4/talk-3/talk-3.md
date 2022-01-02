@@ -8,6 +8,6 @@ icon:
 
 ---
 
-# Mobile App Development
+Mobile App Development
 
-5CE6A1
+layouts · activities · resources · lifecycle · widgits · ux

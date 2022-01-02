@@ -8,6 +8,6 @@ icon:
 
 ---
 
-# Database
+# Databases
 
-1C4CD0
+entities · tables · rows · sql · er · nosql

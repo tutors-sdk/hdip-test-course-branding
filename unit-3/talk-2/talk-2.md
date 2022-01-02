@@ -1,13 +1,9 @@
 ---
-
-icon: 
-
-  type: ri:computer-fill
-
-  color: deb05d
-
+icon:
+  type: la:server
+  color: 2D5BA6
 ---
 
-# Enterprise Web Development
+# Full Stack Web Development
 
-DEB05D
+javascript · node · apis · tdd · frameworks · front-end · svelte 

@@ -8,6 +8,6 @@ icon:
 
 ---
 
-# ICT Skills Two 
+ICT Skills 2
 
-FFD603
+javascript · SPA · react · APIs · front-end

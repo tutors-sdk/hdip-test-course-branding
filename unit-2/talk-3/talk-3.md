@@ -10,4 +10,4 @@ icon:
 
 # Computer Systems & Networks
 
-DB0421
+logic · computer organisation · os · networks · interfaces · sensors

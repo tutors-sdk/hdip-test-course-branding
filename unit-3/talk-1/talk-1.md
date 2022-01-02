@@ -10,4 +10,4 @@ icon:
 
 # Workshop Three
 
-009656
+agile methods · cv preparation · introducing semester 3

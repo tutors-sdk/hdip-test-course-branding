@@ -1,13 +1,7 @@
 ---
-
-icon: 
-
-  type: ri:cloudy-2-fill
-  
-  color: 51a3c3
-
+icon:
+  type: flat-color-icons:data-encryption
 ---
+Software Security
 
-# Developer Operations
-
-51A3C3
+security · crypto · threats · vulnerabilities
