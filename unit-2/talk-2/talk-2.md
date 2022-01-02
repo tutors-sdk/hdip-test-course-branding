@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: ri:git-branch-fill
+  type: zmdi:view-web
 
   color: FFD603
 
