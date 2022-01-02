@@ -1,13 +1,9 @@
 ---
-
 icon: 
-
-  type: ri:git-branch-fill
-
+  type: bi:window-stack
   color: FFD603
-
 ---
 
-ICT Skills 2
+Full Stack Development 2
 
-javascript · SPA · react · APIs · front-end
+ SPA · react · APIs · front-end
